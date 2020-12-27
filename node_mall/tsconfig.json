@@ -1,0 +1,362 @@
+[
+  {
+    img: 'static/img/goodsList/item-show-1.jpg',
+    price: 36.60,
+    intro: 'SKSK 苹果7/7plus手机壳 iPhone 7 Plus保护套全包硬壳男女磨砂防摔 火影红(苹',
+    remarks: 6160,
+    shopName: 'MALL自营',
+    sale: 9900
+  },
+  {
+    img: 'static/img/goodsList/item-show-2.jpg',
+    price: 28.00,
+    intro: '蒙奇奇 苹果6s手机壳磨砂防摔保护套 适用于iphone6/6s/6sPlus/6plus 6/6s 4.7英',
+    remarks: 3000,
+    shopName: 'MALL自营',
+    sale: 9600
+  },
+  {
+    img: 'static/img/goodsList/item-show-3.jpg',
+    price: 15.00,
+    intro: 'BIAZE 苹果6/6s手机壳 苹果iphone6s 4.7英寸透明手机套 清爽系列',
+    remarks: 2800,
+    shopName: 'MALL自营',
+    sale: 8900
+  },
+  {
+    img: 'static/img/goodsList/item-show-4.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 9000,
+    shopName: 'MALL自营',
+    sale: 8600
+  },
+  {
+    img: 'static/img/goodsList/item-show-5.jpg',
+    price: 15.00,
+    intro: 'BIAZE 苹果6/6s手机壳 苹果iphone6s 4.7英寸透明手机套 清爽系列',
+    remarks: 6160,
+    shopName: 'MALL自营',
+    sale: 8560
+  },
+  {
+    img: 'static/img/goodsList/item-show-6.jpg',
+    price: 28.00,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 9006,
+    shopName: 'MALL自营',
+    sale: 8530
+  },
+  {
+    img: 'static/img/goodsList/item-show-7.jpg',
+    price: 15.00,
+    intro: 'BIAZE 苹果6/6s手机壳 苹果iphone6s 4.7英寸透明手机套 清爽系列',
+    remarks: 8666,
+    shopName: 'MALL自营',
+    sale: 8360
+  },
+  {
+    img: 'static/img/goodsList/item-show-8.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 7560
+  },
+  {
+    img: 'static/img/goodsList/item-show-9.jpg',
+    price: 36.60,
+    intro: 'SKSK 苹果7/7plus手机壳 iPhone 7 Plus保护套全包硬壳男女磨砂防摔 火影红(苹',
+    remarks: 6160,
+    shopName: 'MALL自营',
+    sale: 7360
+  },
+  {
+    img: 'static/img/goodsList/item-show-10.jpg',
+    price: 28.00,
+    intro: '蒙奇奇 苹果6s手机壳磨砂防摔保护套 适用于iphone6/6s/6sPlus/6plus 6/6s 4.7英',
+    remarks: 3000,
+    shopName: 'MALL自营',
+    sale: 6960
+  },
+  {
+    img: 'static/img/goodsList/item-show-11.jpg',
+    price: 15.00,
+    intro: 'BIAZE 苹果6/6s手机壳 苹果iphone6s 4.7英寸透明手机套 清爽系列',
+    remarks: 2800,
+    shopName: 'MALL自营',
+    sale: 6560
+  },
+  {
+    img: 'static/img/goodsList/item-show-12.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 9000,
+    shopName: 'MALL自营',
+    sale: 6360
+  },
+  {
+    img: 'static/img/goodsList/item-show-13.jpg',
+    price: 15.00,
+    intro: 'BIAZE 苹果6/6s手机壳 苹果iphone6s 4.7英寸透明手机套 清爽系列',
+    remarks: 6160,
+    shopName: 'MALL自营',
+    sale: 5530
+  },
+  {
+    img: 'static/img/goodsList/item-show-14.jpg',
+    price: 28.00,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 9006,
+    shopName: 'MALL自营',
+    sale: 5560
+  },
+  {
+    img: 'static/img/goodsList/item-show-15.jpg',
+    price: 15.00,
+    intro: 'BIAZE 苹果6/6s手机壳 苹果iphone6s 4.7英寸透明手机套 清爽系列',
+    remarks: 8666,
+    shopName: 'MALL自营',
+    sale: 5260
+  },
+  {
+    img: 'static/img/goodsList/item-show-16.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-17.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-18.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-19.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-20.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-21.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-22.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-23.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-24.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-25.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-26.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-27.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-28.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-29.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-30.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-31.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-32.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-33.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-34.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-35.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-36.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-37.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-38.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-39.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-40.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-41.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-42.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-43.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-44.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  },
+  {
+    img: 'static/img/goodsList/item-show-45.jpg',
+    price: 29.90,
+    intro: '慕臣 苹果6s手机壳全包防摔磨砂软保护套男女 适用于iPhone6splus',
+    remarks: 6080,
+    shopName: 'MALL自营',
+    sale: 3560
+  }
+]
